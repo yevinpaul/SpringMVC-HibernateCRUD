@@ -1,0 +1,7 @@
+com\periq\model\Student.class
+com\periq\controller\HelloController.class
+com\periq\dao\StudentDAO.class
+com\periq\service\impl\StudentServiceImpl.class
+com\periq\controller\StudentController.class
+com\periq\dao\impl\StudentDAOImpl.class
+com\periq\service\StudentService.class
